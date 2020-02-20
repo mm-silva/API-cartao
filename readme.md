@@ -11,5 +11,6 @@
             * php -S localhost:3000 -t public
     e pronto já está funcionando.
 ## Informações importantes
-    A API foi desenvolvida em PHP com o micro-framework Lumen, caso tenha duvidas acesse o site https://lumen.laravel.com/docs/6.x e https://getcomposer.org/ .
+    A API foi desenvolvida em PHP com o micro-framework Lumen, caso tenha duvidas acesse o site 
+    https:lumen.laravel.com/docs/6.x e https://getcomposer.org/ .
 
