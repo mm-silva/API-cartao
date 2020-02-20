@@ -2,8 +2,9 @@
     Meu nome é Miqueias Meneses sou desenvolvedor web e completei o desafio de criar uma API de cartão de credito.
 
 ## PRE-REQUISITOS
-    * ter instalado o PHP 7.2 ou superior.
-    * ter instalado o composer
+    * ter instalado PHP 7.2 ou superior.
+    * ter instalado composer
+    * ter instalado git
     * use o git clone https://github.com/mm-silva/backendjr.git para utilizar o projeto.
     * para o funcionamento da API entre na pasta principal /backendjr/ e digite:
             * composer update 
