@@ -2,7 +2,7 @@
     Meu nome é Miqueias Meneses sou desenvolvedor web
     e completei o desafio de criar uma API de cartão de credito.
 
-## PRE-REQUISITOS
+## PRÉ-REQUISITOS
     * ter instalado PHP 7.2 ou superior.
     * ter instalado composer
     * ter instalado git
