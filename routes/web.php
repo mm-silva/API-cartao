@@ -12,5 +12,12 @@
 */
 
 $router->get('/', function () use ($router) {
-    return $router->app->version();
+
+    return "( ͡° ͜ʖ ͡°) " . $router->app->version();
 });
+
+
+$router->get('/transaction',function(){
+    return 'essa rota só recebe POST';
+});
+$router->post('/transaction','TransactionController@index');
